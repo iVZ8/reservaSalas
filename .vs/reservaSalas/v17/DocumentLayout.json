@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ForC#\\reservaSalas\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\ForCsharp\\reservaSalas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ForCsharp\\reservaSalas\\Migrations\\20251015165315_AddUsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251015165315_AddUsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EB5EAD-8E14-45EC-B18A-5922F7E8C364}|reservaSalas.csproj|d:\\forcsharp\\reservasalas\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EB5EAD-8E14-45EC-B18A-5922F7E8C364}|reservaSalas.csproj|solutionrelative:data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EB5EAD-8E14-45EC-B18A-5922F7E8C364}|reservaSalas.csproj|d:\\forcsharp\\reservasalas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EB5EAD-8E14-45EC-B18A-5922F7E8C364}|reservaSalas.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251015165315_AddUsuarioEntity.cs",
+              "DocumentMoniker": "D:\\ForCsharp\\reservaSalas\\Migrations\\20251015165315_AddUsuarioEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251015165315_AddUsuarioEntity.cs",
+              "ToolTip": "D:\\ForCsharp\\reservaSalas\\Migrations\\20251015165315_AddUsuarioEntity.cs",
+              "RelativeToolTip": "Migrations\\20251015165315_AddUsuarioEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:53:16.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "D:\\ForCsharp\\reservaSalas\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "Data\\BancoContext.cs",
+              "ToolTip": "D:\\ForCsharp\\reservaSalas\\Data\\BancoContext.cs",
+              "RelativeToolTip": "Data\\BancoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:50:33.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\ForCsharp\\reservaSalas\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "D:\\ForCsharp\\reservaSalas\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:37:11.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
