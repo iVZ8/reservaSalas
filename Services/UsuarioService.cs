@@ -27,7 +27,7 @@ namespace reservaSalas.Services
             return usuario;
         }
 
-        public async Task<Usuario> DeleteAsync(long id)
+        public async Task DeleteAsync(long id)
         {
             var usuario = await _usuarioRepositorio.GetbyIdAsync(id);
 
@@ -38,8 +38,6 @@ namespace reservaSalas.Services
 
             _usuarioRepositorio.Delete(usuario);
             await _usuarioRepositorio.SaveChangesAsync();
-
-            return usuario;
         }
 
         public async Task<IEnumerable<Usuario>> GetAllAsync()
